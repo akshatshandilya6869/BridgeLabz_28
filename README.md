@@ -55,4 +55,4 @@
 - Solved Assignment question on this,static and final.
 ## **04-02-25**
 - Learned about  this, static, final key words and instance of operator.
-- Solved level 1 lab practice questions on the above topic.
+- Solved level 1 lab practice questions on the above topics.
