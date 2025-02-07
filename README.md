@@ -55,5 +55,16 @@
 - Solved Assignment question on this,static and final.
 
 ## **04-02-25**
-- Learned about  this, static, final key words and instance of operator.
+- Learned about  this, static, final key words and instanceof operator in Java.
+- Implementation of instanceof operator which enables crossverification of objects in Java.
 - Solved level 1 lab practice questions on the above topics.
+
+## **05-02-25**
+- Learned about object modeling and Class Diagram in JAVA.
+- Solved assignment on the above topics including in depth understancing of class and object diagrams.
+- Learned and implemented sequence diagram of various Java programs. 
+
+## **06-02-25**
+- Learned about inheritance in java including its various types such as -single,multi,multiple and heirarchical level .
+- Gone through various concepts :- Method Overriding,constructor inheritence in java,polymorphism and inheritance ,and, Access Modifiers and inheritance .
+  
