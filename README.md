@@ -67,4 +67,31 @@
 ## **06-02-25**
 - Learned about inheritance in java including its various types such as -single,multi,multiple and heirarchical level .
 - Gone through various concepts :- Method Overriding,constructor inheritence in java,polymorphism and inheritance ,and, Access Modifiers and inheritance .
-  
+
+## **07-02-25**
+- Learned more of industrial usage git commands (git stash , git rebase , etc.).
+- Practiced real life Inheritance problems and differentiating factor between inhertance and aggregation.
+- Strengthened understandings of has-a and in-a relationship.
+
+## **10-02-25**
+- Review 2 taken .
+- Practiced intermediate problems of inheritance,encapsulation and Abstract classes.
+- Learned inheritance,encapsulation and Abstract classes for better readablility and Security of Program.
+- Learned further more industrial usage git commands.
+
+
+## **11-02-25**
+- Learned about collections in java and how framework is used in java.
+- Learned how collections have pre-defined classes and interface for Universal usage.
+- Gone through ArrayList, LikedList and Vectors.
+
+## **12-02-25**
+- Solved  LinkedList Practice problems from Assignment.
+- Learned implementation and Syntax of Singly,Doubly and Circular LinkedList.
+- Gone through Stack,Queue and Hashmaps Data Structures.
+
+## **13-02-25**
+- Solved Data Structure Practice problems from Assignment.
+- Learned implementation and Syntax of Stack,Queues and HashMaps.
+- Learned further more industrial usage git commands.
+- Gone through HashCodes and how to Generate them.
